@@ -28,3 +28,5 @@ In this report, we explored how to identify $k$-dimensional manifolds embedded i
 ### Report 7 - Convervative Vector Fields, Divergence, and Curl
 
 This report studies several fundamental properties of vector fields. First, we prove that any two potential functions of a conservative vector field must only differ by a constant. We then found that for any vector field $f$, $\textnormal{curl} (\nabla f) = \mathbf{0}$, which implies that the curl of a conservative vector field is $0$ at all points. Finally, we found that for any vector field $\mathbf{F}$, $\textnormal{div} (\textnormal{curl} \mathbf{F}) = 0$.
+
+![](https://view-counter.onrender.com/gh-MATH32ABH)
